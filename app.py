@@ -502,7 +502,7 @@ Cette application utilise :
         examples = [
             "Je veux développer la pratique du vélo dans ma commune",
             "Je veux réduire l'usage de la voiture individuelle en centre-ville",
-            "Je veux améliorer le covoiturage entre les zones rurales et la gare",
+            "Je veux décarboner les trajets des actifs qui viennent de plus de 10 km et n'ont pas de ligne de TC sur leur itinéraire",
             "Je veux faciliter les déplacements des personnes âgées dans mon territoire",
         ]
         st.markdown("**Exemples :**")
